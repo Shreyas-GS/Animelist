@@ -77,7 +77,7 @@ nav li:nth-of-type(5) a::after{
     all: unset;
     box-shadow: 4px 4px 4px rgb(92, 246, 169);
 }
-new a:hover::after{
+nav a:hover::after{
     width: 30px;
 }
 nav li:nth-of-type(5) a{
